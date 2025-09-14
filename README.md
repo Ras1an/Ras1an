@@ -3,7 +3,7 @@
 💻 Software Engineer | Backend Developer | .NET Specialist  
 📍 6th of October, Giza, Egypt  
 
-🎓 I’m a Computer Engineering student at Ahram Canadian University (CGPA: 3.83/4.00) with a strong passion for backend development and clean, efficient software design. I enjoy tackling challenges, exploring modern architectures, and building scalable web applications.  
+🎓 I’m a Computer Engineering student at Ahram Canadian University (Grade: Distinction) with a strong passion for backend development and clean, efficient software design. I enjoy tackling challenges, exploring modern architectures, and building scalable web applications.  
 
 ---
 
